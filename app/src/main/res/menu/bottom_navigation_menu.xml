@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/pokedex"
+        android:enabled="true"
+        android:icon="@drawable/pokeball"
+        android:title="@string/pokedex"/>
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/home_icon"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/teambuilder"
+        android:enabled="true"
+        android:icon="@drawable/teambuilder_logo"
+        android:title="@string/teambuilder"/>
+</menu>
